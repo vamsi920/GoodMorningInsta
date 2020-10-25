@@ -11,7 +11,7 @@ def send_Text():
     print("started")
     LoginIdText = "Input your insta email id "
     PasswordText = "Input your Insta password"
-    TargetUser = ["user1", "user2"] ####### any number users
+    TargetUser = ["user1", "user2"] ####### can enter multiple users
     TargetMessage = "Enter your message here"
     
     op = webdriver.ChromeOptions()
